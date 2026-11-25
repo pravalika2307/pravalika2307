@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0E14" />
+      <stop offset="55%" stop-color="#0F141D" />
+      <stop offset="100%" stop-color="#111822" />
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#79C0FF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2937" stroke-width="0.7" stroke-opacity="0.45" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" rx="12" fill="url(#bg)" />
+  <rect width="1200" height="280" rx="12" fill="url(#grid)" />
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="11.5" stroke="#21262D" />
+
+  <!-- Minimalist geometric node motif on right -->
+  <g opacity="0.28" stroke="#58A6FF" stroke-width="1.2">
+    <line x1="930" y1="78" x2="1025" y2="122" />
+    <line x1="1025" y1="122" x2="1110" y2="86" />
+    <line x1="1025" y1="122" x2="1075" y2="202" />
+    <line x1="930" y1="78" x2="960" y2="190" />
+    <line x1="960" y1="190" x2="1075" y2="202" />
+    <circle cx="930" cy="78" r="4.5" fill="#0B0E14" />
+    <circle cx="1025" cy="122" r="5.5" fill="#58A6FF" />
+    <circle cx="1110" cy="86" r="4" fill="#0B0E14" />
+    <circle cx="960" cy="190" r="4" fill="#0B0E14" />
+    <circle cx="1075" cy="202" r="4.5" fill="#0B0E14" />
+  </g>
+
+  <!-- Accent bar -->
+  <rect x="64" y="62" width="44" height="3" rx="1.5" fill="#58A6FF" />
+
+  <!-- Eyebrow -->
+  <text x="120" y="67" fill="#8B949E" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.2">
+    PRAVALIKA PALLE · FULL STACK SOFTWARE ENGINEER
+  </text>
+
+  <!-- Headline -->
+  <text x="64" y="122" fill="#F0F6FC" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5">
+    Building Products. Solving Problems.
+  </text>
+  <text x="64" y="166" fill="#C9D1D9" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="-0.5">
+    Exploring What's Possible.
+  </text>
+
+  <!-- Subtitle -->
+  <text x="64" y="210" fill="#8B949E" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400">
+    Full-Stack Systems  ·  FastAPI &amp; TypeScript  ·  Applied AI Platforms  ·  Data Structures &amp; Algorithms
+  </text>
+
+  <rect x="64" y="236" width="520" height="1.5" fill="url(#accentLine)" />
+</svg>
