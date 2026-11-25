@@ -22,7 +22,7 @@ I build reliable full-stack applications, backend APIs, and applied AI interface
 ## About Me
 
 - **Education:** Master of Computer Applications (MCA), completed 2026.
-- **Current Role:** Full Stack Software Engineer Intern at **Agile Receivables**, working on full-stack features, PostgreSQL data models, and FastAPI services.
+- **Current Role:** Growth & Technology Intern at **Agile Receivables**, working on full-stack features, PostgreSQL data models, and FastAPI services.
 - **Engineering Focus:** Designing practical software products, clean REST APIs, interactive TypeScript/React interfaces, and applied AI workflows with Google Gemini.
 - **Problem Solving:** Practising Data Structures and Algorithms consistently in Python, with an emphasis on reusable problem-solving patterns and clean complexity analysis.
 
